@@ -171,3 +171,9 @@ TL;DR stands for "Too Long; Didn't Read".
 It originates in Internet slang, where it is used to indicate that a long text
 (or parts of it) has been skipped as too lengthy.
 Read more in Wikipedia's [TL;DR article](https://en.wikipedia.org/wiki/TL;DR).
+
+
+## Sam's notes
+
+To add personal pages simply add the page and then add a record into
+the `pages/index.json` file.
