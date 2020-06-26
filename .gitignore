@@ -13,7 +13,11 @@ npm-debug.log
 # but it's been superseded by a static asset
 # hosted at https://tldr-pages.github.io/assets/index.json
 pages/index.json
-index.json
+
+# SALOTZ: I want to save this so its portable in the repo for me,
+# don't want to have to build it
+#
+#index.json
 
 # Generated PDF pages
 scripts/pdf/*.html
