@@ -25,3 +25,7 @@
 - Show the size of the file in bytes:
 
 `stat -c "%s %n" {{file}}`
+
+- Show the datetime of last modification:
+
+`stat -c "%y" {{file}}`
