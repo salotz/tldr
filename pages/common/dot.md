@@ -13,3 +13,8 @@
 - Apply the layout without rendering to `stdout`
 
 `dot {{file.dot}}`
+
+- Use another layout engine like `neato`
+
+`neato {{file.dot}}`
+
