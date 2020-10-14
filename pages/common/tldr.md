@@ -14,3 +14,7 @@
 - Get help for a git subcommand:
 
 `tldr {{git-checkout}}`
+
+- Reindex the entries adding the new ones:
+
+`tldr reindex`
