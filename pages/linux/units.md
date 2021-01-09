@@ -1,7 +1,8 @@
 # units
 
 > Provide the conversion between two units of measure.
-> Typing 'search {{text}}' in the prompt will display a list of all of the units containing {{text}}.
+> Typing `search {{text}}` in the prompt will display a list of all of the units containing `{{text}}`.
+> More information: <https://www.gnu.org/software/units/units.html>.
 
 - Run in interactive mode:
 
@@ -17,8 +18,8 @@
 
 - Show the conversion between two compound units:
 
-`units {{"meters / second"}} {{"inches / hour"}}`
+`units "{{meters / second}}" "{{inches / hour}}"`
 
 - Show the conversion between units with different dimensions:
 
-`units {{"acres"}} {{"ft^2"}}`
+`units "{{acres}}" "{{ft^2}}"`
