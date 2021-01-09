@@ -36,9 +36,9 @@
 
 `mlist {{maildir_path}} | magrep *:{{regex}} | mshow | grep {{regex}}`
 
-<!-- - Copy messages according to an `mpick` pattern from one maildir to a newly created maildir: -->
+- TODO: Copy messages according to an `mpick` pattern from one maildir to a newly created maildir:
 
-<!-- `mmkdir {{maildir_B}} && mlist {{maildir_A}} | mpick -t '{{pattern}}' | xargs -I _ cp _ {{maildir_B}}/new/` -->
+`mmkdir {{maildir_B}} && mlist {{maildir_A}} | mpick -t '{{pattern}}' | xargs -I _ cp _ {{maildir_B}}/new/`
 
 - Render the MIME parts of matching emails:
 
