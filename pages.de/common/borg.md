@@ -2,7 +2,7 @@
 
 > Deduplizierendes Sicherungswerkzeug.
 > Erstellt lokale oder entfernte Sicherungen, die als Dateisysteme mountbar sind.
-> Mehr Information: <https://borgbackup.readthedocs.io/en/stable/usage/general.html>.
+> Mehr Informationen: <https://borgbackup.readthedocs.io/en/stable/usage/general.html>.
 
 - Initialisiert ein (lokales) Repository:
 
@@ -12,7 +12,7 @@
 
 `borg create --progress {{/pfad/zum/repo_verzeichnis}}::{{Montag}} {{/pfad/zum/quell_verzeichnis}}`
 
--  Alle Archive in einem Repository auflisten
+-  Alle Archive in einem Repository auflisten:
 
 `borg list {{/pfad/zum/repo_verzeichnis}}`
 

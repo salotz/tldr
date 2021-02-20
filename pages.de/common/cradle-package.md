@@ -1,7 +1,7 @@
 # cradle package
 
 > Management von Paketen für Cradle Instanzen.
-> Weitere Informationen: <https://cradlephp.github.io/docs/3.B.-Reference-Command-Line-Tools.html#package>.
+> Mehr Informationen: <https://cradlephp.github.io/docs/3.B.-Reference-Command-Line-Tools.html#package>.
 
 - Auflistung aller verfügbaren Pakete:
 
@@ -11,7 +11,7 @@
 
 `cradle package search {{Paket}}`
 
-- Installieren eines Paketes von Packagist.
+- Installieren eines Paketes von Packagist:
 
 `cradle package install {{Paket}}`
 

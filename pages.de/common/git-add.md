@@ -1,7 +1,7 @@
 # git add
 
-> Fügt Dateien zum Index/Stage hinzu.   
-> Mehr Informationen: <https://git-scm.com/docs/git-add>.   
+> Fügt Dateien zum Index/Stage hinzu.
+> Mehr Informationen: <https://git-scm.com/docs/git-add>.
 
 - Fügt eine Datei zum Index/Stage hinzu:
 
@@ -15,7 +15,7 @@
 
 `git add -u`
 
-- Fügt auch Dateien, welche ignoriert werden (.gitignore) hinzu:
+- Fügt auch Dateien, welche ignoriert werden (`.gitignore`) hinzu:
 
 `git add -f`
 
